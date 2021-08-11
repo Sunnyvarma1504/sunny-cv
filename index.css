@@ -1,0 +1,50 @@
+body{   
+    background-color:rgb(217, 255, 255);
+} 
+hr{  
+    
+    border-color: rgba(162, 176, 255, 0.993);
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width:7%;
+   
+   }
+h3{color: #70e268;}
+
+h1{color:#f31e1edb}
+
+a{color: hotpink;}
+a:hover {
+    color: gold;
+  }
+  /**********************class and selctor*******************/
+#thankyouemoji{
+    background-color:gold;
+  border-radius: 100%;
+  margin: 0 auto 0 auto;
+  display: block;
+   
+
+  }
+  #thankyouemoji:hover {
+    background-color: rgb(105, 255, 255)
+
+    
+    
+}
+
+ .heading{ color: rgb(255, 77, 77);
+
+ }  
+
+.thankyou{
+  
+    font-size: 300%;
+    text-align: center;
+    margin-top: 15%;
+
+}
+.developergif{
+  border-radius: 100%;
+}
